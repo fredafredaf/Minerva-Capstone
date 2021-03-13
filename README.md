@@ -1,3 +1,4 @@
 # Minerva-Capstone
 This repo contains the code notebook used to generate results for my Capstone project at Minerva Schools. 
-It contains two notebook: Data and Model, which preprocesses the data and set up the model for training. 
+The project is about distinguishing the two mutational subtypes, exon 19 deletions from exon 21 L858R, from
+whole slide images using deep learning (Inception V3). 
