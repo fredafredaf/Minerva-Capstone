@@ -9,3 +9,5 @@ database.
 
 The WSI_tiling notebook is the python notebook where I tile the larger SVS files in smaller JPEG files before inputting
 into the neural network. 
+
+The Inception_classification notebooks contains the setup of the model and the training process. 
